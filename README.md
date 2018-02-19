@@ -1,5 +1,10 @@
 # IES-FIB
 
+[![HitCount](http://hits.dwyl.io/mrrobb/IES-FIB.svg)](http://hits.dwyl.io/mrrobb/IES-FIB)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+[![GitHub Issues](https://img.shields.io/github/issues/mrrobb/IES-FIB.svg)](https://github.com/mrrobb/IES-FIB/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mrrobb/IES-FIB.svg?style=social&label=Star)](https://GitHub.com/mrrobb/IES-FIB/stargazers)
+
 > Raimon Lapuente raimon.lapuente@essi.upc.edu
 
 ### Evaluación
