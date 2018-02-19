@@ -1,5 +1,7 @@
 # IES-FIB
 
+> Raimon Lapuente raimon.lapuente@essi.upc.edu
+
 ### Evaluación
 
 |C1|FHC1|FHC2|C2|FHC3|Participación|
