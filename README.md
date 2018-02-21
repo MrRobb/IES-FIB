@@ -7,6 +7,15 @@
 
 > Raimon Lapuente raimon.lapuente@essi.upc.edu
 
+### Temario
+
+- Presentación
+- Introducción
+	- [Clase 00](Apuntes/clase00.md)
+- Ingeniería de requisitos
+- Casos de uso
+- Esquema conceptual de los datos
+
 ### Evaluación
 
 |C1|FHC1|FHC2|C2|FHC3|Participación|
