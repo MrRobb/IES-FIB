@@ -5,7 +5,8 @@
 [![GitHub Issues](https://img.shields.io/github/issues/mrrobb/IES-FIB.svg)](https://github.com/mrrobb/IES-FIB/issues)
 [![GitHub stars](https://img.shields.io/github/stars/mrrobb/IES-FIB.svg?style=social&label=Star)](https://GitHub.com/mrrobb/IES-FIB/stargazers)
 
-> Raimon Lapuente raimon.lapuente@essi.upc.edu
+> Teoría: Raimon Lapuente raimon.lapuente@essi.upc.edu
+> Lab: Xavier Oriol xoriol@essi.upc.edu
 
 ### Temario
 
@@ -13,6 +14,7 @@
 - Introducción
 	- [Clase 00](Apuntes/clase00.md)
 - Ingeniería de requisitos
+	- [Clase 01](Apuntes/clase01.md)
 - Casos de uso
 - Esquema conceptual de los datos
 
