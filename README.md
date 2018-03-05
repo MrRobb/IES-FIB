@@ -16,7 +16,9 @@
 - Ingeniería de requisitos
 	- [Clase 01](Apuntes/clase01.md)
 - Casos de uso
+	- [Clase 02](Apuntes/clase02.md)
 - Esquema conceptual de los datos
+	- [Clase 03](Apuntes/clase03.md)
 
 ### Evaluación
 
