@@ -37,6 +37,19 @@
 
 (I will answer in 24h max).
 
+## Cómo pasar los apuntes a PDF
+
+1. Descarga el repositorio y guárdalo donde quieras
+2. Instala [mdpdf](https://github.com/BlueHatbRit/mdpdf) ejecutando en terminal:
+```sh
+npm install mdpdf -g
+```
+3. Para convertir un archivo, ejecuta:
+```sh
+mdpdf nombre_del_archivo.md
+```
+4. Se te guardará como `nombre_del_archivo.pdf`
+
 ## Pull requests are always welcome
 
 We are always thrilled to receive pull requests, and do our best to
@@ -46,7 +59,6 @@ request? Do it! We will appreciate it.
 If your pull request is not accepted on the first try, don't be
 discouraged! If there's a problem with the implementation, hopefully you
 received feedback on what to improve.
-
 
 **Do you want to contribute?**
 
