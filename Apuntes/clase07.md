@@ -51,7 +51,7 @@ context: Sistema::afegirRealizatcio(codiTasca: String, horesDed: Int, assig: Ass
 ```
 
 ```java
-context: Sistema::consultaProjectesBenComplementats() : Set(TuplesType(nomProj : String, Set(codiTasca: String)))
+context: Sistema::consultaProjectesBenComplementats() : Set(TupleType(nomProj : String, Set(codiTasca: String)))
 	body:
 		let projectes : Set(Projecte) =
 			Projecte.allInstances()->select(p |
